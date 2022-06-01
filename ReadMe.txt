@@ -6,7 +6,7 @@ Steps to use this script:
 Step 1. Run this script with COM port as a argument
 
 example,
-C:\Users\asiahyd\original $ python qxdm_logger.py 70
+C:\Users\user\original $ python qxdm_logger.py 70
 
 Output:
 ............................................................................................................
